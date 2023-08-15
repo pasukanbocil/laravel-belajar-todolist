@@ -33,5 +33,4 @@ class UserServiceTest extends TestCase
         self::assertFalse($this->userService->login("khannedy","salah"));
     }
 
-
 }
