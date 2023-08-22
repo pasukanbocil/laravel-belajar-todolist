@@ -8,7 +8,7 @@ use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Session;
 
-use function PHPUnit\Framework\assertNotNull;
+
 
 class TodolistServiceTest extends TestCase
 {
